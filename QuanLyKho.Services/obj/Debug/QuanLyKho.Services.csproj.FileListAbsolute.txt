@@ -1,0 +1,5 @@
+D:\GitHub\QuanLyKho\QuanLyKho.Services\bin\Debug\QuanLyKho.Services.dll
+D:\GitHub\QuanLyKho\QuanLyKho.Services\bin\Debug\QuanLyKho.Services.pdb
+D:\GitHub\QuanLyKho\QuanLyKho.Services\obj\Debug\QuanLyKho.Services.dll
+D:\GitHub\QuanLyKho\QuanLyKho.Services\obj\Debug\QuanLyKho.Services.pdb
+D:\GitHub\QuanLyKho\QuanLyKho.Services\obj\Debug\QuanLyKho.Services.csprojResolveAssemblyReference.cache
